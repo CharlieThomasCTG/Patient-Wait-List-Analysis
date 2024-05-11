@@ -1,9 +1,12 @@
 # Patient-Wait-List-Analysis
 ## Page 1 
-![image](https://github.com/charliethomasct82/Patient-Wait-List-Analysis/assets/93368865/d30a6cd0-0cd9-49cc-aae7-81ebfbed9796)
+![image](https://github.com/charliethomasct82/Patient-Wait-List-Analysis/assets/93368865/dd497150-c5ae-43ea-85be-46c083858fe7)
+
+
 
 ## Page 2 
-![image](https://github.com/charliethomasct82/Patient-Wait-List-Analysis/assets/93368865/76465020-950a-4262-a2bd-19ef8497353d)
+![image](https://github.com/charliethomasct82/Patient-Wait-List-Analysis/assets/93368865/dc4c02b2-c469-49d2-9e09-cdee39f7f311)
+
 
 
 
